@@ -1,7 +1,7 @@
-# notas
+# Notes
 
 este es un repositorio de pruebas :)
 
-## subtitle
+## Subtitle
 
-vsCode .
+vsCode
